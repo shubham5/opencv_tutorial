@@ -8,3 +8,5 @@ you have to do is to execute this command:<br>
 
 This will create a binary with the name 'chessboard' which can be easily
 run by `./chessboard`.
+
+
